@@ -5,3 +5,28 @@ body{
 
     padding-top: 47px;
 }
+.aboutus{
+
+    background-color: #C1B4AE;
+}
+.robot1{
+    border: none;
+border-top: 3px solid #172121;
+max-width: 249px;
+margin: 23px auto;
+
+}
+.robot2{
+color: #172121;
+position: relative;
+top: -53px;
+font-size: 47px;
+
+}
+.galerie{
+    background-color: #C1B4AE
+}
+.figure:hover{
+opacity: 0.7;
+
+}
